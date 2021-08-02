@@ -18,7 +18,7 @@ Exam Rank 2 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/pr
 
 [Push Swap](https://github.com/Freya-Tenebrae/Push_Swap) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/push_swap)](https://github.com/JaeSeoKim/badge42)
 
-Minitalk : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minitalk)](https://github.com/JaeSeoKim/badge42)
+[Minitalk](https://github.com/Freya-Tenebrae/Minitalk) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minitalk)](https://github.com/JaeSeoKim/badge42)
 
 So Long : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/so_long)](https://github.com/JaeSeoKim/badge42)
 
