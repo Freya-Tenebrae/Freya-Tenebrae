@@ -23,3 +23,11 @@ Exam Rank 2 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/pr
 [So Long](https://github.com/Freya-Tenebrae/So_Long) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/so_long)](https://github.com/JaeSeoKim/badge42)
 
 [FdF](https://github.com/Freya-Tenebrae/FdF) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/fdf)](https://github.com/JaeSeoKim/badge42)
+
+# Rank 3
+
+Exam Rank 3 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/exam-rank-03)](https://github.com/JaeSeoKim/badge42)
+
+Philosophers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/philosophers)](https://github.com/JaeSeoKim/badge42)
+
+MiniShell : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
