@@ -20,9 +20,13 @@ Exam Rank 2 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/pr
 
 [Minitalk](https://github.com/Freya-Tenebrae/Minitalk) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minitalk)](https://github.com/JaeSeoKim/badge42)
 
+Pipex : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/pipex)](https://github.com/JaeSeoKim/badge42)
+
 [So Long](https://github.com/Freya-Tenebrae/So_Long) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/so_long)](https://github.com/JaeSeoKim/badge42)
 
-[FdF](https://github.com/Freya-Tenebrae/FdF) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/fdf)](https://github.com/JaeSeoKim/badge42)
+FdF : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/fdf)](https://github.com/JaeSeoKim/badge42)
+
+Fract-ol : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/fract-ol)](https://github.com/JaeSeoKim/badge42)
 
 # Rank 3
 
