@@ -42,6 +42,10 @@ Philosophers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/p
 
 MiniShell : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
 
+# Personal Project
+
+coming soon
+
 # Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freya-Tenebrae&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
