@@ -1,4 +1,4 @@
-Hi, I'm Célia (I often use Freya as a pseudonym). I study at "42 School" at Paris since may 2021.
+Hi, I'm Célia (I often use Freya as a pseudonym). I study at 42 Paris since may 2021.
 
 In this github you'll find all project that I made in 42 and in the future some of my personnal project.
 
