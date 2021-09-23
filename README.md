@@ -1,3 +1,7 @@
+Hi, I'm Célia (I often use Freya as a pseudonym). I study at "42 School" at Paris since may 2021.
+
+In this github you'll find all project that I made in 42 and in the future some of my personnal project.
+
 # 42 Cursus
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cmaginot?cursus=42Cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
@@ -44,7 +48,7 @@ MiniShell : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/proj
 
 # Personal Project
 
-coming soon
+coming "soon"
 
 # Github Stats
 
