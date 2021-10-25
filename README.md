@@ -24,8 +24,6 @@ In this github you'll find all project that I made in 42 and in the future some 
 
 ## Rank 2
 
-Exam Rank 2 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/exam-rank-02)](https://github.com/JaeSeoKim/badge42)
-
 [Push Swap](https://github.com/Freya-Tenebrae/Push_Swap) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/push_swap)](https://github.com/JaeSeoKim/badge42)
 
 [Minitalk](https://github.com/Freya-Tenebrae/Minitalk) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minitalk)](https://github.com/JaeSeoKim/badge42)
@@ -33,8 +31,6 @@ Exam Rank 2 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/pr
 [So Long](https://github.com/Freya-Tenebrae/So_Long) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/so_long)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 3
-
-Exam Rank 3 : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/exam-rank-03)](https://github.com/JaeSeoKim/badge42)
 
 Philosophers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/philosophers)](https://github.com/JaeSeoKim/badge42)
 
