@@ -36,6 +36,22 @@ Philosophers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/p
 
 MiniShell : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
 
+## Rank 4
+
+Netpractice : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/netpractice)](https://github.com/JaeSeoKim/badge42)
+
+Cub3d : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
+
+CPP modules : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-00)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-01)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-02)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-03)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-05)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-05)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-06)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-07)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-08)](https://github.com/JaeSeoKim/badge42)
+
 # Personal Project
 
 coming "soon"
