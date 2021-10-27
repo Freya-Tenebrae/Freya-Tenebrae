@@ -32,9 +32,9 @@ In this github you'll find all project that I made in 42 and in the future some 
 
 ## Rank 3
 
-Philosophers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/philosophers)](https://github.com/JaeSeoKim/badge42)
+[Philosophers](https://github.com/Freya-Tenebrae/Philosopher) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/philosophers)](https://github.com/JaeSeoKim/badge42)
 
-MiniShell : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
+[MiniShell](https://github.com/Freya-Tenebrae/MiniShell) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 4
 
