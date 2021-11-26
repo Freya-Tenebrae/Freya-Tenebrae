@@ -34,7 +34,7 @@ In this github you'll find all project that I made in 42 and in the future some 
 
 ## Rank 3
 
-[Philosophers](https://github.com/Freya-Tenebrae/Philosopher) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/philosophers)](https://github.com/JaeSeoKim/badge42)
+[Philosophers](https://github.com/Freya-Tenebrae/Philosopher) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/Philosophers)](https://github.com/JaeSeoKim/badge42)
 
 [MiniShell](https://github.com/Freya-Tenebrae/MiniShell) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
 
@@ -42,7 +42,7 @@ In this github you'll find all project that I made in 42 and in the future some 
 
 Netpractice : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/netpractice)](https://github.com/JaeSeoKim/badge42)
 
-Cub3d : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
+Cub3d : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cub3d)](https://github.com/JaeSeoKim/badge42)
 
 CPP modules : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-00)](https://github.com/JaeSeoKim/badge42)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-01)](https://github.com/JaeSeoKim/badge42)
