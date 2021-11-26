@@ -54,6 +54,18 @@ CPP modules : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/pr
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-07)](https://github.com/JaeSeoKim/badge42)
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-08)](https://github.com/JaeSeoKim/badge42)
 
+## Rank 5
+
+Inception : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/Inception)](https://github.com/JaeSeoKim/badge42)
+
+ft_containers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_containers)](https://github.com/JaeSeoKim/badge42)
+
+ft_irc : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_irc)](https://github.com/JaeSeoKim/badge42)
+
+## Rank 6
+
+ft_transcendence : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_transcendence)](https://github.com/JaeSeoKim/badge42)
+
 # Personal Project
 
 coming "soon"
