@@ -1,7 +1,3 @@
-Hi, I'm Célia (I often use Freya as a pseudonym). I study at 42 Paris since may 2021.
-
-In this github you'll find all project that I made in 42 and in the future some of my personnal project.
-
 # 42 Cursus
 
 [![42](https://badgen.net/badge/Born2Code/cmaginot?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://github.com/Freya-Tenebrae)
