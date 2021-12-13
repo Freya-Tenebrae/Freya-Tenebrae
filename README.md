@@ -62,7 +62,7 @@ ft_irc : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project
 
 ft_transcendence : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_transcendence)](https://github.com/JaeSeoKim/badge42)
 
-# Personal Project
+# Personal Project & Various Project
 
 coming "soon"
 
