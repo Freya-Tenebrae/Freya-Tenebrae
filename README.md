@@ -1,66 +1,60 @@
 # 42 Cursus
 
-[![42](https://badgen.net/badge/Born2Code/cmaginot?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://github.com/Freya-Tenebrae)
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cmaginot?cursus=42Cursus&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
 ## Piscine
 
-[Piscine C](https://github.com/Freya-Tenebrae/PiscineC) : Lvl 9,91 reached
+[Piscine C](https://github.com/Freya-Tenebrae/PiscineC) : [![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 0
 
-[Libft](https://github.com/Freya-Tenebrae/libft) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/Libft)](https://github.com/JaeSeoKim/badge42)
+[Libft](https://github.com/Freya-Tenebrae/libft) : [![cmaginot's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2177403)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 1
 
-[Get Next Line](https://github.com/Freya-Tenebrae/Get_next_line) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[Get Next Line](https://github.com/Freya-Tenebrae/Get_next_line) : [![cmaginot's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2177403)](https://github.com/JaeSeoKim/badge42)
 
-[Ft_printf](https://github.com/Freya-Tenebrae/ft_printf) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[Ft_printf](https://github.com/Freya-Tenebrae/ft_printf) : [![cmaginot's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2188987)](https://github.com/JaeSeoKim/badge42)
 
-[Born2beroot](https://github.com/Freya-Tenebrae/Born2beroot) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/Born2beroot)](https://github.com/JaeSeoKim/badge42)
+[Born2beroot](https://github.com/Freya-Tenebrae/Born2beroot) : [![cmaginot's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2188990)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 2
 
-[Push Swap](https://github.com/Freya-Tenebrae/Push_Swap) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/push_swap)](https://github.com/JaeSeoKim/badge42)
+[Push Swap](https://github.com/Freya-Tenebrae/Push_Swap) : [![cmaginot's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2342856)](https://github.com/JaeSeoKim/badge42)
 
-[Minitalk](https://github.com/Freya-Tenebrae/Minitalk) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minitalk)](https://github.com/JaeSeoKim/badge42)
+[Minitalk](https://github.com/Freya-Tenebrae/Minitalk) : [![cmaginot's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2342857)](https://github.com/JaeSeoKim/badge42)
 
-[So Long](https://github.com/Freya-Tenebrae/So_Long) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/so_long)](https://github.com/JaeSeoKim/badge42)
+[So Long](https://github.com/Freya-Tenebrae/So_Long) : [![cmaginot's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2342860)](https://github.com/JaeSeoKim/badge42)
+
+Exam Rank 02 : [![cmaginot's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2342858)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 3
 
-[Philosophers](https://github.com/Freya-Tenebrae/Philosopher) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/Philosophers)](https://github.com/JaeSeoKim/badge42)
+[Philosophers](https://github.com/Freya-Tenebrae/Philosopher) : [![cmaginot's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2409100)](https://github.com/JaeSeoKim/badge42)
 
-[MiniShell](https://github.com/Freya-Tenebrae/MiniShell) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/minishell)](https://github.com/JaeSeoKim/badge42)
+[MiniShell](https://github.com/Freya-Tenebrae/MiniShell) : [![cmaginot's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2409102)](https://github.com/JaeSeoKim/badge42)
+
+Exam Rank 03 : [![cmaginot's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2409101)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 4
 
-Netpractice : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/netpractice)](https://github.com/JaeSeoKim/badge42)
+Netpractice : pending
 
-Cub3d : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cub3d)](https://github.com/JaeSeoKim/badge42)
+Cub3d : pending
 
-CPP modules : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-00)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-01)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-02)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-03)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-05)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-05)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-06)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-07)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/cpp-module-08)](https://github.com/JaeSeoKim/badge42)
+CPP modules : pending
 
 ## Rank 5
 
-Inception : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/Inception)](https://github.com/JaeSeoKim/badge42)
+Inception : pending
 
-ft_containers : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_containers)](https://github.com/JaeSeoKim/badge42)
+ft_containers : pending
 
-ft_irc : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_irc)](https://github.com/JaeSeoKim/badge42)
+ft_irc : pending
 
 ## Rank 6
 
-ft_transcendence : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/cmaginot/ft_transcendence)](https://github.com/JaeSeoKim/badge42)
+ft_transcendence : pending
 
 # Personal Project & Various Project
 
