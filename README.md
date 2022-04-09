@@ -2,9 +2,9 @@
 
 [![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
-## Piscine
+## [Piscine](https://github.com/Freya-Tenebrae/PiscineC)
 
-[Piscine C](https://github.com/Freya-Tenebrae/PiscineC) : [![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 ## Rank 0
 
