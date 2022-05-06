@@ -40,9 +40,9 @@ Exam Rank 03 : [![cmaginot's 42 Exam Rank 03 Score](https://badge42.vercel.app/a
 
 Netpractice : [![cmaginot's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2576716)](https://github.com/JaeSeoKim/badge42)
 
-Cub3d : pending
+[CPP modules](https://github.com/Freya-Tenebrae/cpp.git) : [![cmaginot's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2576718)](https://github.com/JaeSeoKim/badge42)
 
-CPP modules : [![cmaginot's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2576718)](https://github.com/JaeSeoKim/badge42)
+Cub3d : pending
 
 Exam Rank 04 : [![cmaginot's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2576719)](https://github.com/JaeSeoKim/badge42)
 
