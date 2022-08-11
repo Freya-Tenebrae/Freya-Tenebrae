@@ -1,6 +1,6 @@
 # Personal Project & Various Project
 
-coming "soon"
+empty at the moment
 
 # 42 Cursus
 
