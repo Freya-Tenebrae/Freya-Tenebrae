@@ -1,3 +1,7 @@
+# Personal Project & Various Project
+
+coming "soon"
+
 # 42 Cursus
 
 [![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
@@ -57,10 +61,6 @@ ft_irc : pending
 ## Rank 6
 
 ft_transcendence : pending
-
-# Personal Project & Various Project
-
-coming "soon"
 
 # Github Stats
 
