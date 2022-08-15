@@ -1,4 +1,4 @@
-# Personal Project & Various Project
+# Personal & Various Project
 
 empty at the moment
 
