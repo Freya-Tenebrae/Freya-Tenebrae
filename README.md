@@ -58,9 +58,13 @@ Exam Rank 04 : [![cmaginot's 42 Exam Rank 04 Score](https://badge42.vercel.app/a
 
 [ft_irc](https://github.com/Freya-Tenebrae/Irc) : pending
 
+Exam Rank 05 : pending
+
 ## Rank 6
 
 ft_transcendence : pending
+
+Exam Rank 06 : pending
 
 # Github Stats
 
