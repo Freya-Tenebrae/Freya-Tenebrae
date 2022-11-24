@@ -56,7 +56,7 @@ Exam Rank 04 : [![cmaginot's 42 Exam Rank 04 Score](https://badge42.vercel.app/a
 
 [ft_containers](https://github.com/Freya-Tenebrae/Container) : pending
 
-[ft_irc](https://github.com/Freya-Tenebrae/Irc) : [![cmaginot's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2859537)](https://github.com/JaeSeoKim/badge42)
+[ft_irc](https://github.com/Freya-Tenebrae/ft_irc) : [![cmaginot's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2859537)](https://github.com/JaeSeoKim/badge42)
 
 Exam Rank 05 : pending
 
