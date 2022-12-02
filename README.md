@@ -1,6 +1,6 @@
 # Personal & Various Project
 
-[advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{155,127,0} 2*$ (update 1/12/2022)
+[advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{155,127,0} 4*$ (update 1/12/2022)
 
 codingame fall challenge 2022 : coming soon
 
