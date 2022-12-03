@@ -1,6 +1,6 @@
 # Personal & Various Project
 
-[advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{255,215,0} 4$<img src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" data-canonical-src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" width="16" height="16" /> (update 2/12/2022)
+[advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{255,215,0} 6$<img src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" data-canonical-src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" width="16" height="16" /> (update 3/12/2022)
 
 codingame fall challenge 2022 : coming soon
 
