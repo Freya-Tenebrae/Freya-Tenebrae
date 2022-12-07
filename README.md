@@ -73,3 +73,9 @@ Exam Rank 06 : pending
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freya-Tenebrae&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freya-Tenebrae&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+# Other certification
+
+## Codingame
+
+![certification c++ codingame](https://github.com/Freya-Tenebrae/Freya-Tenebrae/blob/main/Certification.png)
