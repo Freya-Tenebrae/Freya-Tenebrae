@@ -76,6 +76,9 @@ Exam Rank 06 : pending
 
 # Other certification
 
-## Codingame
-
-![certification c++ codingame](https://github.com/Freya-Tenebrae/Freya-Tenebrae/blob/main/Certification.png)
+<details>
+  <summary>certification c++ codingame</summary>
+  
+  ![certification c++ codingame](https://github.com/Freya-Tenebrae/Freya-Tenebrae/blob/main/Certification.png)
+  
+</details>
