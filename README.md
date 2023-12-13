@@ -1,6 +1,6 @@
 # Personal & Various Project
 
-[advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{255,215,0} 24$<img src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" data-canonical-src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" width="16" height="16" /> (update 8/12/2022)
+[advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{255,215,0} 27$<img src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" data-canonical-src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" width="16" height="16" />
 
 [advent of code 2023](https://github.com/Freya-Tenebrae/adventofcode2023) : $\color[RGB]{255,215,0} 23$<img src="https://github.com/Freya-Tenebrae/adventofcode2023/blob/main/Golden_star.svg.png" data-canonical-src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" width="16" height="16" /> (update 13/12/2023)
 
