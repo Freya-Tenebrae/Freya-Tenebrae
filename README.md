@@ -36,7 +36,7 @@ codingame fall challenge 2023 : coming soon
 
 [So Long](https://github.com/Freya-Tenebrae/So_Long) : [![cmaginot's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2342860)](https://github.com/JaeSeoKim/badge42)
 
-Exam Rank 02 : [![cmaginot's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2342858)](https://github.com/JaeSeoKim/badge42)
+Exam Rank 02 : $\color[RGB]{0,204,102} 100✓$
 
 ## Rank 3
 
@@ -44,7 +44,7 @@ Exam Rank 02 : [![cmaginot's 42 Exam Rank 02 Score](https://badge42.vercel.app/a
 
 [MiniShell](https://github.com/Freya-Tenebrae/MiniShell) : [![cmaginot's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2409102)](https://github.com/JaeSeoKim/badge42)
 
-Exam Rank 03 : [![cmaginot's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2409101)](https://github.com/JaeSeoKim/badge42)
+Exam Rank 03 : $\color[RGB]{0,204,102} 100✓$
 
 ## Rank 4
 
@@ -54,7 +54,7 @@ Netpractice : [![cmaginot's 42 NetPractice Score](https://badge42.vercel.app/api
 
 [Cub3d](https://github.com/Freya-Tenebrae/Cub3D) : [![cmaginot's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2580204)](https://github.com/JaeSeoKim/badge42)
 
-Exam Rank 04 : [![cmaginot's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2576719)](https://github.com/JaeSeoKim/badge42)
+Exam Rank 04 : $\color[RGB]{0,204,102} 100✓$
 
 ## Rank 5
 
@@ -64,13 +64,13 @@ Exam Rank 04 : [![cmaginot's 42 Exam Rank 04 Score](https://badge42.vercel.app/a
 
 [ft_irc](https://github.com/Freya-Tenebrae/ft_irc) : [![cmaginot's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/project/2859537)](https://github.com/JaeSeoKim/badge42)
 
-Exam Rank 05 : pending
+Exam Rank 05 : $\color[RGB]{0,204,102} 100✓$
 
 ## Rank 6
 
-ft_transcendence : pending
+ft_transcendence : $\color[RGB]{0,204,102} 100✓$
 
-Exam Rank 06 : pending
+Exam Rank 06 : $\color[RGB]{0,204,102} 100✓$
 
 # Github Stats
 
