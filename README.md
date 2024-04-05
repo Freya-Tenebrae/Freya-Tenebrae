@@ -22,11 +22,10 @@ Diplômée d'un bac +3 en programmation logicielle et bases de données, de troi
 |3|[Philosophers](https://github.com/Freya-Tenebrae/Philosopher)|$\color[RGB]{0,204,102} 100✓$|
 |3|[MiniShell](https://github.com/Freya-Tenebrae/MiniShell)|$\color[RGB]{0,204,102} 99✓$|
 |4|Netpractice|$\color[RGB]{0,204,102} 100✓$|
-|4|[CPP modules - part 1](https://github.com/Freya-Tenebrae/cpp)|$\color[RGB]{0,204,102} 100✓$|
 |4|[Cub3d](https://github.com/Freya-Tenebrae/Cub3D) |$\color[RGB]{0,204,102} 125✓$|
+|4 - 5|[CPP modules](https://github.com/Freya-Tenebrae/cpp)|$\color[RGB]{0,204,102} 100✓$|
 |5|[Inception](https://github.com/Freya-Tenebrae/Inception) |$\color[RGB]{0,204,102} 100✓$|
 |5|[ft_irc](https://github.com/Freya-Tenebrae/ft_irc) |$\color[RGB]{0,204,102} 100✓$|
-|5|[CPP modules - part 2](https://github.com/Freya-Tenebrae/cpp) |$\color[RGB]{0,204,102} 125✓$|
 |6|ft_transcendence |$\color[RGB]{0,204,102} 100✓$|
 
 ## Post Common Core
