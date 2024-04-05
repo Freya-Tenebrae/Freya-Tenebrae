@@ -1,4 +1,4 @@
-Diplômée d'un bac +3 en programmation logicielle et bases de données, de trois mois d'expérience en stage au sein de l'entreprise VIVOKA, suivi d'une année en alternance au sein de l'INSEE, je suis actuellement étudiante à l'école 42 Paris, j’ai achevé le tronc commun de mon cursus.
+Diplômée d'un bac +3 en programmation logicielle et bases de données, de trois mois d'expérience en stage au sein de l'entreprise VIVOKA, suivi d'une année en alternance au sein de l'INSEE, je suis actuellement étudiante à l'école 42 Paris.
 
 # 42 Cursus
 
