@@ -23,7 +23,7 @@ I hold a Bachelor’s degree (Bac +3) in Software Programming and Databases, com
 |4 - 5|[CPP modules](https://github.com/Freya-Tenebrae/cpp)|$\color[RGB]{0,204,102} 100✓$|
 |5|[Inception](https://github.com/Freya-Tenebrae/Inception) |$\color[RGB]{0,204,102} 100✓$|
 |5|[ft_irc](https://github.com/Freya-Tenebrae/ft_irc) |$\color[RGB]{0,204,102} 100✓$|
-|6|ft_transcendence |$\color[RGB]{0,204,102} 100✓$|
+|6|[ft_transcendence](https://github.com/Freya-Tenebrae/Transcendence) |$\color[RGB]{0,204,102} 100✓$|
 
 # Personal & Various Project
 
