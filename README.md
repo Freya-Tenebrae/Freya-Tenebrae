@@ -1,13 +1,14 @@
-Diplômée d'un bac +3 en programmation logicielle et bases de données, de trois mois d'expérience en stage au sein de l'entreprise VIVOKA, suivi d'une année en alternance au sein de l'INSEE, je suis actuellement étudiante à l'école 42 Paris.
+Je suis diplômée d'une licence professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par un stage de trois mois à [VIVOKA](https://vivoka.com/) et d'une année en alternance à l'[INSEE](https://www.insee.fr/). Actuellement, je perfectionne mes compétences en tant qu'étudiante à [42](https://42.fr/le-campus-de-paris/42-paris-campus) pour l'optention du diplome [Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/).
+
+
+
+I hold a Bachelor’s degree (Bac +3) in Software Programming and Databases, complemented by a three-month internship at [VIVOKA](https://vivoka.com/) and a one-year work-study program at [INSEE](https://www.insee.fr/). Presently, I am advancing my skills as a student at [42](https://42.fr/en/homepage/) to obtain the diploma "[Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/)".
 
 # 42 Cursus
 
-## [Piscine](https://github.com/Freya-Tenebrae/PiscineC)
-
-## Common core
-
 |Rank|Project|Grade|
 |:-----:|:-----:|:-----:|
+|-|[Piscine](https://github.com/Freya-Tenebrae/PiscineC)||
 |0|[Libft](https://github.com/Freya-Tenebrae/libft)|$\color[RGB]{0,204,102} 115✓$|
 |1|[Get Next Line](https://github.com/Freya-Tenebrae/Get_next_line)|$\color[RGB]{0,204,102} 115✓$|
 |1|[Ft_printf](https://github.com/Freya-Tenebrae/ft_printf)|$\color[RGB]{0,204,102} 111✓$|
@@ -23,11 +24,6 @@ Diplômée d'un bac +3 en programmation logicielle et bases de données, de troi
 |5|[Inception](https://github.com/Freya-Tenebrae/Inception) |$\color[RGB]{0,204,102} 100✓$|
 |5|[ft_irc](https://github.com/Freya-Tenebrae/ft_irc) |$\color[RGB]{0,204,102} 100✓$|
 |6|ft_transcendence |$\color[RGB]{0,204,102} 100✓$|
-
-## Post Common Core
-
-|Project|Grade|
-|:-----:|:-----:|
 
 # Personal & Various Project
 
