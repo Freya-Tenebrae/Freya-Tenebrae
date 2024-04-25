@@ -4,8 +4,6 @@ Diplômée d'un bac +3 en programmation logicielle et bases de données, de troi
 
 ## [Piscine](https://github.com/Freya-Tenebrae/PiscineC)
 
-[![cmaginot's 42 stats](https://badge42.vercel.app/api/v2/cl1s5sord008509mlo7xr33zy/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
 ## Common core
 
 |Rank|Project|Grade|
