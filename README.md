@@ -1,8 +1,8 @@
-Je suis diplômée d'une licence professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par un stage de trois mois à [VIVOKA](https://vivoka.com/) et d'une année en alternance à l'[INSEE](https://www.insee.fr/). Actuellement, je perfectionne mes compétences en tant qu'étudiante à [42](https://42.fr/le-campus-de-paris/42-paris-campus) pour l'optention du diplome [Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/).
+Actuellement, je perfectionne mes compétences en tant qu'étudiante à [42](https://42.fr/le-campus-de-paris/42-paris-campus) pour l'optention du diplome [Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/). Je suis diplômée d'une licence professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par un stage de trois mois à [VIVOKA](https://vivoka.com/) et d'une année en alternance à l'[INSEE](https://www.insee.fr/).
 
 
 
-I hold a Bachelor’s degree (Bac +3) in Software Programming and Databases, complemented by a three-month internship at [VIVOKA](https://vivoka.com/) and a one-year work-study program at [INSEE](https://www.insee.fr/). Presently, I am advancing my skills as a student at [42](https://42.fr/en/homepage/) to obtain the diploma "[Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/)".
+I am advancing my skills as a student at [42](https://42.fr/en/homepage/) to obtain the diploma "[Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/)". I hold a Bachelor’s degree (Bac +3) in Software Programming and Databases, complemented by a three-month internship at [VIVOKA](https://vivoka.com/) and a one-year work-study program at [INSEE](https://www.insee.fr/).
 
 # 42 Cursus
 
