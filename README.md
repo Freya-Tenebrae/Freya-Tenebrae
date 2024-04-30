@@ -1,4 +1,4 @@
-Actuellement, je perfectionne mes compétences en tant qu'étudiante à [42](https://42.fr/le-campus-de-paris/42-paris-campus) pour l'optention du diplome [Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/). Je suis diplômée d'une licence professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par un stage de trois mois à [VIVOKA](https://vivoka.com/) et d'une année en alternance à l'[INSEE](https://www.insee.fr/).
+Actuellement, je perfectionne mes compétences en tant qu'étudiante à [42](https://42.fr/le-campus-de-paris/42-paris-campus) pour l'obtention du diplôme [Expert en Architecture Informatique](https://www.francecompetences.fr/recherche/rncp/36137/). Je suis diplômée d'une licence professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par un stage de trois mois à [VIVOKA](https://vivoka.com/) et d'une année en alternance à l'[INSEE](https://www.insee.fr/).
 
 
 
