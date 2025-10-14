@@ -32,6 +32,10 @@ todo : another version in english
 |5|[ft_irc](https://github.com/Freya-Tenebrae/ft_irc) |$\color[RGB]{0,204,102} 100✓$|
 |6|[ft_transcendence](https://github.com/Freya-Tenebrae/Transcendence) |$\color[RGB]{0,204,102} 100✓$|
 
+# MEWO - Experte en Système d'Information - option Experte en Développement Informatique
+
+coming soon
+
 # Personal & Various Project
 
 [advent of code 2022](https://github.com/Freya-Tenebrae/adventofcode2022) : $\color[RGB]{255,215,0} 27$<img src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" data-canonical-src="https://github.com/Freya-Tenebrae/adventofcode2022/blob/main/Golden_star.svg.png" width="16" height="16" />
