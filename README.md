@@ -3,15 +3,32 @@
 Je suis diplômée du tronc commun de l’école [42 Paris](https://42.fr/), où j’ai acquis une solide autonomie et une approche pragmatique du développement logiciel.
 Bien que désormais alumni, je continue à y retourner régulièrement afin d’enrichir mes compétences et d’explorer de nouvelles technologies.
 
-Je suis également titulaire d’une Licence Professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par :
+Je suis également titulaire d’une Licence Professionnelle (Bac +3) en Programmation Logicielle et Bases de Données.
+
+Ces formations sont complétée par :
 - un stage de trois mois chez [VIVOKA](https://vivoka.com/)
 - une année en alternance à l'[INSEE](https://www.insee.fr/)
-- un CDD de 6 mois en tant qu'ingénieur informatique à [Felix Informatique (TSS)](https://www.felix.fr/)
+- un CDD de six mois en tant qu'ingénieur informatique à [Felix Informatique (TSS)](https://www.felix.fr/)
 
 ## Parcours actuel
-Je poursuis aujourd’hui un titre d’Expert en [Systèmes d’Information – option Expert en Développement Informatique](https://www.mewo.fr/formations/informatique/developpeur-web-et-mobile/) à l’école [MEWO](https://www.mewo.fr/formations/informatique/), en alternance chez [Félix Informatique](https://www.felix.fr/), où j’occupe le poste d’Ingénieure Développement Informatique jusqu'en septembre 2027.
+Je poursuis aujourd’hui un titre d’Expert en [Systèmes d’Information – option Expert en Développement Informatique](https://www.mewo.fr/formations/informatique/developpeur-web-et-mobile/) à l’école [MEWO](https://www.mewo.fr/formations/informatique/), en alternance chez [Felix Informatique (TSS)](https://www.felix.fr/), où j’occupe le poste d’Ingénieure Développement Informatique jusqu'en septembre 2027.
 
-todo : another version in english
+<br>
+<details>
+  <summary>🇬🇧 English Version</summary>
+  
+  I graduated from the common core curriculum of [42 Paris](https://42.fr/), where I developed a strong autonomy and a pragmatic approach to software development.
+  Although now an alumni, I still regularly return to 42 to expand my skills and explore new technologies.
+  
+  I also hold a Bachelor’s degree (Bac +3) in Software Programming and Databases, complemented by :
+  - 3-month internship at [VIVOKA](https://vivoka.com/)
+  - 1-year apprenticeship at [INSEE](https://www.insee.fr/)
+  - 6-month fixed-term contract as a Software Engineer at [Felix Informatique (TSS)](https://www.felix.fr/)
+  
+  ## Current path
+  I am currently pursuing a Master’s-level degree (Bac +5) as an [IT Systems Expert – specializing in Software Development](https://www.mewo.fr/formations/informatique/developpeur-web-et-mobile/) at [MEWO](https://www.mewo.fr/formations/informatique/), while working in alternance at [Felix Informatique (TSS)](https://www.felix.fr/), where I hold the position of Software Development Engineer until September 2027.
+</details>
+
 
 ## 42 Cursus (Level 11.08)
 
