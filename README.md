@@ -6,9 +6,10 @@ Bien que désormais alumni, je continue à y retourner régulièrement afin d’
 Je suis également titulaire d’une Licence Professionnelle (Bac +3) en Programmation Logicielle et Bases de Données, complétée par :
 - un stage de trois mois chez [VIVOKA](https://vivoka.com/)
 - une année en alternance à l'[INSEE](https://www.insee.fr/)
+- 6 mois de CDD en tant qu'ingénieur informatique à [Felix Informatique (TSS)](https://www.felix.fr/)
 
 ## Parcours actuel
-Je poursuis aujourd’hui un titre d’Expert en [Systèmes d’Information – option Expert en Développement Informatique](https://www.mewo.fr/formations/informatique/developpeur-web-et-mobile/) à l’école [MEWO](https://www.mewo.fr/formations/informatique/), en alternance chez [Félix Informatique](), où j’occupe le poste d’Ingénieure Développement Informatique.
+Je poursuis aujourd’hui un titre d’Expert en [Systèmes d’Information – option Expert en Développement Informatique](https://www.mewo.fr/formations/informatique/developpeur-web-et-mobile/) à l’école [MEWO](https://www.mewo.fr/formations/informatique/), en alternance chez [Félix Informatique](https://www.felix.fr/), où j’occupe le poste d’Ingénieure Développement Informatique jusqu'en septembre 2027.
 
 todo : another version in english
 
