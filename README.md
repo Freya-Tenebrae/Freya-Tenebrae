@@ -1,4 +1,4 @@
-# Ingénieur informatique, spécialisée back-end et dans le codages d'applications
+# Experte Développement Backend
 
 Je suis diplômée du tronc commun de l’école [42 Paris](https://42.fr/), où j’ai acquis une solide autonomie et une approche pragmatique du développement logiciel.
 Bien que désormais alumni, je continue à y retourner régulièrement afin d’enrichir mes compétences et d’explorer de nouvelles technologies.
