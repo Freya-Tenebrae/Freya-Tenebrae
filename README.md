@@ -55,7 +55,7 @@ Je poursuis aujourd’hui un titre d’Expert en [Systèmes d’Information – 
 
 |Courses|Project|Grade|
 |:-----:|:-----:|:-----:|
-|Laravel|[Exam](https://github.com/Freya-Tenebrae/Mewo_LaravelExam_IdeaBox)|$\color[RGB]{0,204,102} X/20$|
+|Laravel|[Exam](https://github.com/Freya-Tenebrae/Mewo_LaravelExam_IdeaBox)|$\color[RGB]{0,204,102} 19/20$|
 |C#|?|?|
 |PL/SQL|?|?|
 |Project|[Study Project](https://github.com/Freya-Tenebrae/MEWO_Project)|$\color[RGB]{0,204,102} X/20$|
